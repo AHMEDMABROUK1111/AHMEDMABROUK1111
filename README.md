@@ -1,6 +1,4 @@
-cd ~/Downloads/AHMEDMABROUK1111
-python3 << 'PYEOF'
-content = """# Hi there, I'm Ahmed Ismail! 👋
+Hi there, I'm Ahmed Ismail! 👋
 
 💼 **Open to Work** — Junior Data Analyst / Data Scientist (Remote EU/EMEA)
 
