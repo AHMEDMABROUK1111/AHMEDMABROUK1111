@@ -2,7 +2,7 @@ Hi there, I'm Ahmed Ismail! 👋
 
 💼 **Open to Work** — Junior Data Analyst / Data Scientist (Remote EU/EMEA)
 
-I'm an economics & CRM professional transitioning into data science, currently pursuing a remote Master's degree in Data Science while working full-time in Istanbul. I build and document everything publicly on GitHub.
+I'm an economics & CRM professional transitioning into data science, currently pursuing a Master's degree in Data Science while working full-time in Istanbul. I build and document everything publicly on GitHub.
 
 - 🌍 Based in **Istanbul, Turkey**
 - 🎓 Studying **Data Science** (Master)
@@ -43,7 +43,7 @@ I'm an economics & CRM professional transitioning into data science, currently p
 ---
 ## ⚡ What I Do
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=F7B731&center=false&vCenter=true&multiline=false&width=600&lines=Data+Scientist+in+the+Making+🚀;Python+%7C+SQL+%7C+Machine+Learning;Turning+Raw+Data+into+Decisions;Economics+Background+%2B+Tech+Skills;Building+in+Public+on+GitHub;Open+to+Remote+EU+%2F+EMEA+Roles+💼)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=F7B731&center=false&vCenter=true&multiline=false&width=600&lines=Data+Scientist+🚀;Python+%7C+SQL+%7C+Machine+Learning;Turning+Raw+Data+into+Decisions;Economics+Background+%2B+Tech+Skills;Building+in+Public+on+GitHub;Open+to+Remote+EU+%2F+EMEA+Roles+💼)](https://git.io/typing-svg)
 
 ---
 
