@@ -10,7 +10,7 @@ I'm an economics & CRM professional transitioning into data science, currently p
 - 💬 Background in **Economics, CRM & Customer Analytics**
 - 🌐 Portfolio: [ahmedismail.tech](http://ahmedismail.tech)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=500&color=F7B731&center=false&vCenter=true&multiline=false&width=600&lines=Data+Scientist+in+the+Making+🚀;Python+%7C+SQL+%7C+Machine+Learning;Turning+Raw+Data+into+Decisions;Economics+Background+%2B+Tech+Skills;Building+in+Public+on+GitHub;Open+to+Remote+EU+%2F+EMEA+Roles+💼)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=500&color=F7B731&center=false&vCenter=true&multiline=false&width=600&lines=Data+Scientist+🚀;Python+%7C+SQL+%7C+Machine+Learning;Turning+Raw+Data+into+Decisions;Economics+Background+%2B+Tech+Skills;Building+in+Public+on+GitHub;Open+to+Remote+EU+%2F+EMEA+Roles+💼)](https://git.io/typing-svg)
 
 ---
 
