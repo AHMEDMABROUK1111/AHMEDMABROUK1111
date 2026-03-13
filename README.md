@@ -59,8 +59,3 @@ I'm an economics & CRM professional transitioning into data science, currently p
 
 ![](https://visitcount.itsvg.in/api?id=AHMEDMABROUK1111&icon=0&color=0)
 """
-
-with open('README.md', 'w') as f:
-    f.write(content)
-print('Done!')
-PYEOF
