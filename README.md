@@ -5,8 +5,7 @@ Hi there, I'm Ahmed Ismail! 👋
 I'm an economics & CRM professional transitioning into data science, currently pursuing a remote Master's degree in Data Science while working full-time in Istanbul. I build and document everything publicly on GitHub.
 
 - 🌍 Based in **Istanbul, Turkey**
-- 🎓 Studying **Data Science** (Remote Master's)
-- 🌱 Currently mastering **Python, SQL, and Machine Learning**
+- 🎓 Studying **Data Science** (Master)
 - 🔭 Working toward **AZ-900 & DP-100 Azure certifications**
 - 💬 Background in **Economics, CRM & Customer Analytics**
 - 🌐 Portfolio: [ahmedismail.tech](http://ahmedismail.tech)
@@ -34,9 +33,6 @@ I'm an economics & CRM professional transitioning into data science, currently p
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
 ![Jupyter](https://img.shields.io/badge/Jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
 
-### Web & Backend
-![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
-![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
 
 ### Cloud & Tools
 ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
