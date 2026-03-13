@@ -41,14 +41,9 @@ I'm an economics & CRM professional transitioning into data science, currently p
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
 ---
+## ⚡ What I Do
 
-## 📊 GitHub Stats
-
-![](https://github-readme-stats.vercel.app/api?username=AHMEDMABROUK1111&theme=dark&hide_border=true&include_all_commits=true&count_private=false)
-
-![](https://nirzak-streak-stats.vercel.app/?user=AHMEDMABROUK1111&theme=dark&hide_border=true)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=AHMEDMABROUK1111&theme=dark&hide_border=true&layout=compact)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=F7B731&center=false&vCenter=true&multiline=false&width=600&lines=Data+Scientist+in+the+Making+🚀;Python+%7C+SQL+%7C+Machine+Learning;Turning+Raw+Data+into+Decisions;Economics+Background+%2B+Tech+Skills;Building+in+Public+on+GitHub;Open+to+Remote+EU+%2F+EMEA+Roles+💼)](https://git.io/typing-svg)
 
 ---
 
